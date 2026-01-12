@@ -1,0 +1,28 @@
+{
+    "name": "@cipherr/slug-generator",
+    "version": "1.0.0",
+    "description": "A quick slug generator for blog applications and apps that require keeping track of slugs",
+    "keywords": [
+        "slug",
+        "generator",
+        "blog"
+    ],
+    "homepage": "https://github.com/AfolabiOlajide/slug-generator#readme",
+    "bugs": {
+        "url": "https://github.com/AfolabiOlajide/slug-generator/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AfolabiOlajide/slug-generator.git"
+    },
+    "license": "ISC",
+    "author": "cipherr",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "uuid": "^13.0.0"
+    }
+}
